@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-05-09T11:35:09.113184152+08:00"
+    description: A Helm chart for Kubernetes
+    digest: cf654434eabd048f74542ea4dbcae14d94fb9b309f7589de07e9d89730a3485a
+    name: test
+    urls:
+    - https://github.com/choboll/charts/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-09T11:35:09.112720016+08:00"
